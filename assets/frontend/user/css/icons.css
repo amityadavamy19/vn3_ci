@@ -1,0 +1,117 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?d9ibgg');
+  src:  url('fonts/icomoon.eot?d9ibgg#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.woff2?d9ibgg') format('woff2'),
+    url('fonts/icomoon.ttf?d9ibgg') format('truetype'),
+    url('fonts/icomoon.woff?d9ibgg') format('woff'),
+    url('fonts/icomoon.svg?d9ibgg#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-twitter:before {
+  content: "\f099";
+}
+.icon-facebook:before {
+  content: "\f09a";
+}
+.icon-facebook-f:before {
+  content: "\f09a";
+}
+.icon-linkedin:before {
+  content: "\f0e1";
+}
+.icon-angle-up:before {
+  content: "\f106";
+}
+.icon-angle-down:before {
+  content: "\f107";
+}
+.icon-youtube-play:before {
+  content: "\f16a";
+}
+.icon-instagram:before {
+  content: "\f16d";
+}
+.icon-features-billing:before {
+  content: "\e90b";
+}
+.icon-features-custom:before {
+  content: "\e90c";
+}
+.icon-features-management:before {
+  content: "\e90d";
+}
+.icon-features-multi:before {
+  content: "\e90e";
+}
+.icon-features-phone:before {
+  content: "\e90f";
+}
+.icon-features-processor:before {
+  content: "\e910";
+}
+.icon-features-recurring:before {
+  content: "\e911";
+}
+.icon-features-secure:before {
+  content: "\e912";
+}
+.icon-features-users:before {
+  content: "\e913";
+}
+.icon-home:before {
+  content: "\e908";
+}
+.icon-charity:before {
+  content: "\e906";
+}
+.icon-medical:before {
+  content: "\e907";
+}
+.icon-schools:before {
+  content: "\e909";
+}
+.icon-sports:before {
+  content: "\e90a";
+}
+.icon-golf:before {
+  content: "\e903";
+}
+.icon-property:before {
+  content: "\e904";
+}
+.icon-utilities:before {
+  content: "\e905";
+}
+.icon-arrow-down:before {
+  content: "\e901";
+}
+.icon-arrow-up:before {
+  content: "\e914";
+}
+.icon-arrow-left:before {
+  content: "\e902";
+}
+.icon-arrow-right:before {
+  content: "\e915";
+}
+.icon-logo:before {
+  content: "\e900";
+}
